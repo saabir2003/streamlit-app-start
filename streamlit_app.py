@@ -1,9 +1,9 @@
 import streamlit as st
 from PIL import Image
-!git clone https://github.com/parth1620/Facial-Expression-Dataset.git
-!pip install -U git+https://github.com/albumentations-team/albumentations
-!pip install timm
-!pip install --upgrade opencv-contrib-python
+git clone https://github.com/parth1620/Facial-Expression-Dataset.git
+pip install -U git+https://github.com/albumentations-team/albumentations
+pip install timm
+pip install --upgrade opencv-contrib-python
 
 st.title('🤖 machine learning app')
 
