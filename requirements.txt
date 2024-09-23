@@ -5,4 +5,4 @@ matplotlib
 scikit-learn
 
 timm
---upgrade opencv-contrib-python
+opencv-contrib-python
