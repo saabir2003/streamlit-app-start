@@ -5,6 +5,6 @@ matplotlib
 scikit-learn
 torch
 matplotlib.pyplot
-matplotlib.implot
+
 timm
 opencv-contrib-python
